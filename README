@@ -1,0 +1,21 @@
+My build of dmenu (would not work for u)
+
+
+Patches
+-------
+border
+barpadding
+pywal
+center
+
+
+Install
+-------
+  git clone https://github.com/thasunVidasara555/dmenu.git
+  cd dmenu
+  sudo make clean install
+
+
+License
+-------
+MIT

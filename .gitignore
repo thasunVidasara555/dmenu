@@ -1,0 +1,27 @@
+# Ignore build files
+dmenu
+stest
+dmenu.o
+dmenu-*
+*.o
+*.out
+
+# Ignore backup files
+*~
+*.swp
+*.bak
+*.tmp
+
+# Ignore patches
+*.patch
+*.diff
+
+# Ignore cache files
+.cache/
+
+# Ignore conflict resolution files
+*.orig
+*.rej
+
+# Ignore user config
+config.h
